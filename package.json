@@ -1,0 +1,22 @@
+{
+  "name": "traveler",
+  "version": "1.0.0",
+  "description": "Travling website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaryabkhan864/Traveler.git"
+  },
+  "keywords": [
+    "travel"
+  ],
+  "author": "zaryabkhan864 & meltem kaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaryabkhan864/Traveler/issues"
+  },
+  "homepage": "https://github.com/zaryabkhan864/Traveler#readme"
+}
